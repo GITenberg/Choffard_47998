@@ -1,10 +1,16 @@
 _repo: Choffard_47998
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47998-h/images/cover.jpg
 creator:
   author:
     agent_name: Salomons, Vera
     gutenberg_agent_id: '44559'
     url: http://www.gutenberg.org/2009/agents/44559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47998#Choffard
 gutenberg_issued: '2015-01-16'
 gutenberg_type: Text
 identifiers:
